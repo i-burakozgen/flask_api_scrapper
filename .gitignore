@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.sqlite3
+*.db
+Backend/dev.db
+Backend/migrations/alembic.ini
+Backend/migrations/env.py
+Backend/migrations/script.py.mako
